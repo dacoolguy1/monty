@@ -15,6 +15,3 @@ The program reads Matlab files in bytecodes folder `/bytecodes/byte_file.m`. Thi
 
     ./monty byte_file.m
 
-
-## Author
-- Gerald Juwah: <a href= "https://twitter.com/Gee_103"> Twitter </a> and <a href= "https://github.com/Gejix"> Github </a>
